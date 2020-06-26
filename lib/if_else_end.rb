@@ -7,5 +7,5 @@ if current_time.to_i == current_time.to_i.even?
   puts "even!"
 # else puts "odd!"
 else 
-  puts "odd"
+  puts "odd!"
 end
